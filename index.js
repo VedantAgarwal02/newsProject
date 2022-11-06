@@ -1,7 +1,7 @@
 console.log("News Website Project");
 
 // Initialize the parameters
-let apiKey = "d17c903f25d54089bfaa9792cede0cd9";
+let apiKey = "12fd09e72c8d42579916c976c95a6f3f";
 let source = "the-times-of-india";
 
 // Grab
